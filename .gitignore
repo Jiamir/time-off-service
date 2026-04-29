@@ -1,0 +1,5 @@
+node_modules/
+time-off.db
+coverage/
+.env.local
+*.log
