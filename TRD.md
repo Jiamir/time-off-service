@@ -1,7 +1,7 @@
 # Technical Requirements Document (TRD)
 ## Time-Off Microservice — ExampleHR Platform
 
-**Author:** Jaweria Amir
+**Author:** Jaweria Amir    
 **Version:** 1.0  
 **Status:** Final  
 **Date:** April 29, 2026  
